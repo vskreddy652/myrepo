@@ -1,0 +1,7 @@
+select * from login where (uname='abcd' and pawsd='sfsfsdfsd') or 1
+
+Android Native Development LIbrary Security Testing
+WiFi, BlueTooth
+Kalilinux - packet injection
+
+.jar static security check --- lint
